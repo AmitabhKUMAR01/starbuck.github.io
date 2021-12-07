@@ -1,0 +1,209 @@
+@media(max-width: 700px){
+  *{
+    font-size: 25%;
+  }
+   .white{
+  
+  background: white;
+  display: flex;
+  height:10rem;
+  
+  justify-content: space-between;
+}
+.white1,.white2{
+  display: flex;
+  justify-content: space-between;
+ margin-top: 1.5rem;
+  margin-left: 2rem;
+  padding-bottom: 1rem;
+  padding-left: 5rem;
+  align-items: center;
+  width:40%;
+}
+span a{
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 800;
+  color:#000000;
+  font-size: 1.5rem;
+}
+.white2{
+  margin-right: .3rem;
+}
+.sign,.join{
+  border: .1rem solid black;
+  padding:.8rem;
+  
+  border-radius: 2rem;
+}
+.join{
+  background: black;
+ 
+}
+.join a{
+  color: white;
+}
+.green{
+  position:absolute;
+  top:100%;
+  height: 50rem;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  background: #006241;
+  width: 100%;
+}
+.green-head{
+  position: absolute;
+  display: flex;
+  justify-content: center;
+ padding-top: 3rem;
+  width: 100%;
+  height: 100%;
+ margin-left: 0rem;
+  
+}
+.green-head h1{
+  
+  font-size: 6rem;
+}
+.green-pera{
+  position: absolute;
+  display: flex;
+  justify-content: center;
+ padding-top: 10rem;
+ padding-right: 10rem;
+  width: 90%;
+  height: 90%;
+  float: left;
+
+
+}
+.green-pera p,.green-pera a{
+  font-size: 4rem;
+  font-weight: 300;
+}
+.green-pera p a{
+  display:block ;
+  width:40rem;
+  height: 20rem;
+  margin-right: 2rem;
+  height: 2rem;
+  margin-top: 15rem;
+  align-items: center;
+  margin-top: 15rem;
+ margin-left: 20%;
+}
+/*picture 1*/
+  .picture{
+   margin-top: 45%;
+ width:100%;
+ height: 300%;
+}
+.home,.kred,.cream,.people,.credit{
+  position: absolute;
+  display: block;
+  top:0%;
+  width: 100%;
+  height: 50%;
+}
+.for p,.for h1,.for1 p ,.for1 h1,.for2 p,.for2 h1,.for3 p,.for3 h1{
+  position: absolute;
+  width: 100%;
+  font-size: 8rem;
+  top: 50%;
+  color:black;
+}
+.for p,.for1 p,.for2 p,.for3 p{
+  top:70%;
+  font-size: 4rem;
+  
+}
+.star,.star2,.star3{
+  font-size: 5rem;
+  position: absolute;
+ 
+}
+.play{
+  background:#9FC89F;
+  padding:1rem;
+  border: .1rem solid black;
+  border-radius:5rem;
+  text-decoration: none;
+  color:black;
+  transition: .5s;
+}
+/*picture 1st end*/
+ .picture1{
+   position: relative;
+   top:530%;
+   width: 100%;
+   height: 300%;
+   
+   
+ }
+ .picture2,.picture4{
+   top:740%;
+   width: 100%;
+   height: 300%;
+   text-align: center;
+   align-items: center;
+ }
+ .picture3{
+   top:1100%;
+   width: 100%;
+   height: 300%;
+   
+ }
+ .cream{
+   margin:0;
+ }
+.for2 p,.for2 h1{
+  position: absolute;
+ width:100%;
+ text-align: center;
+  
+  margin-left: 0%;
+  
+   align-items: center;
+}
+.for2 h1{
+  position: absolute;
+      bottom: 10%;
+}
+.for3 p,.for3 h1,.for2 p,.for2 h1,.for1 p,.for1 h1{ 
+  color:white;
+}
+.picture4{
+  top:1411%;
+}
+.credit{
+  margin: 0;
+}
+.for4 p,.for4 h1{
+  margin: 0;
+  width:100%;
+}
+.for5{
+  top:1750%;
+}
+.for5 h1{
+  font-size: 4rem;
+}
+.com{
+  font-size: 4rem;
+}
+.line{
+  top:1840%;
+}
+.list{
+  top:1850%;
+}
+ .line2{
+   top:2000%;
+ }
+.list2{
+  top:2000%;
+  height:200%;
+}
+}
